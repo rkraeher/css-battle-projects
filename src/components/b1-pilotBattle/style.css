@@ -2,7 +2,7 @@
     width: 200px;
     height: 200px;
     background: #b5e0ba;
- 	position: fixed;
+ 	  position: absolute;
   } 
   .pilot-battle-container {
     background: #5d3a3a;

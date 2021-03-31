@@ -3,10 +3,13 @@ import "./style.css";
 
 function PilotBattle() {
     return (
-        <div className="pilot-battle-container">
-            <div className="pilot-battle">
+        <>
+            <h2>Simply Square</h2>
+            <div className="pilot-battle-container">
+                <div className="pilot-battle">
+                </div>
             </div>
-        </div>
+        </>
     )
 }
 
